@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS3 Background Property</title>
+    <style>
+        #box{
+            background-image: url('https://mblogthumb-phinf.pstatic.net/MjAxODA4MjlfMzUg/MDAxNTM1NTA5OTQ1NjY5.aZf6k9FXHp2Hs1WobXccbC9i2lv49P09CmqGCIsK4Vcg.Bn76ZrRmvjoBNpOC4ppvM6lscit14Fw7KyWawBcOADkg.PNG.thisme73/흰토끼.png?type=w800');
+        }
+    </style>
+</head>
+<body>
+
+</body>
+</html>
